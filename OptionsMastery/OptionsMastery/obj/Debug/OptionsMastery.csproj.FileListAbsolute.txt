@@ -1,1 +1,12 @@
 c:\users\gabriel\documents\visual studio 2015\Projects\OptionsMastery\OptionsMastery\bin\Debug\OptionsMastery.exe.config
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\bin\Debug\OptionsMastery.exe.config
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\bin\Debug\OptionsMastery.exe
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\bin\Debug\OptionsMastery.pdb
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\bin\Debug\ObjectListView.dll
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\bin\Debug\ObjectListView.xml
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.Views.Mainform.resources
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.exe
+C:\Users\Gabriel\Documents\GitHub\OM\OptionsMastery\OptionsMastery\obj\Debug\OptionsMastery.pdb
